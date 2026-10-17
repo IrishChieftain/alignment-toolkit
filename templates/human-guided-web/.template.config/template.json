@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Human-Guided AI Development",
+  "classifications": [
+    "Web",
+    "C#",
+    "AI Development"
+  ],
+  "identity": "HumanGuidedAI.Web.Starter",
+  "name": "Human-Guided AI Development: minimal ASP.NET Core project",
+  "shortName": "hg-web",
+  "sourceName": "StarterApp",
+  "preferNameDirectory": true,
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
