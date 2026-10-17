@@ -1,6 +1,6 @@
-# StarterApp — Human-Guided AI Development starter
+# StarterApp — Alignment starter
 
-This project was generated from the **Human-Guided AI Development Toolkit** template.
+This project was generated from the **Alignment Toolkit** template.
 
 1. Open `docs/index.md` and obtain approval for actual business requirements.
 2. Keep approved project knowledge in `docs/` in the **same Git repository as the code**.
